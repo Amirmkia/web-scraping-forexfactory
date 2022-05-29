@@ -1,0 +1,737 @@
+[
+    {
+        "dateTime": [
+            [
+                "Sun\nMay 29",
+                " "
+            ],
+            [
+                "Mon\nMay 30",
+                " 2:00am",
+                "EUR",
+                "German Import Prices m/m",
+                "2.1%",
+                "5.7%"
+            ],
+            [
+                "All Day",
+                "EUR",
+                "German Prelim CPI m/m",
+                "0.5%",
+                "0.8%"
+            ],
+            [
+                "3:00am",
+                "CHF",
+                "KOF Economic Barometer",
+                "102.6",
+                "101.7"
+            ],
+            [
+                "EUR",
+                "Spanish Flash CPI y/y",
+                "8.4%",
+                "8.3%"
+            ],
+            [
+                "8:30am",
+                "CAD",
+                "Current Account",
+                "-0.2B",
+                "-0.8B"
+            ],
+            [
+                "All Day",
+                "USD",
+                "Bank Holiday"
+            ],
+            [
+                "11:00am",
+                "USD",
+                "FOMC Member Waller Speaks"
+            ],
+            [
+                "6:45pm",
+                "NZD",
+                "Building Consents m/m",
+                "5.8%"
+            ],
+            [
+                "7:30pm",
+                "JPY",
+                "Unemployment Rate",
+                "2.6%",
+                "2.6%"
+            ],
+            [
+                "7:50pm",
+                "JPY",
+                "Prelim Industrial Production m/m",
+                "-0.1%",
+                "0.3%"
+            ],
+            [
+                "JPY",
+                "Retail Sales y/y",
+                "2.6%",
+                "0.7%"
+            ],
+            [
+                "9:00pm",
+                "NZD",
+                "ANZ Business Confidence",
+                "-42.0"
+            ],
+            [
+                "9:30pm",
+                "AUD",
+                "Building Approvals m/m",
+                "2.2%",
+                "-18.5%"
+            ],
+            [
+                "AUD",
+                "Company Operating Profits q/q",
+                "5.1%",
+                "2.0%"
+            ],
+            [
+                "AUD",
+                "Current Account",
+                "13.4B",
+                "12.7B"
+            ],
+            [
+                "AUD",
+                "Private Sector Credit m/m",
+                "0.5%",
+                "0.4%"
+            ],
+            [
+                "CNY",
+                "Manufacturing PMI",
+                "49.1",
+                "47.4"
+            ],
+            [
+                "CNY",
+                "Non-Manufacturing PMI",
+                "45.2",
+                "41.9"
+            ],
+            [
+                "Tue\nMay 31",
+                "1:00am",
+                "JPY",
+                "Consumer Confidence",
+                "33.9",
+                "33.0"
+            ],
+            [
+                "JPY",
+                "Housing Starts y/y",
+                "2.5%",
+                "6.0%"
+            ],
+            [
+                "2:00am",
+                "CHF",
+                "Trade Balance",
+                "3.50B",
+                "2.99B"
+            ],
+            [
+                "2:30am",
+                "CHF",
+                "Retail Sales y/y",
+                "-1.4%",
+                "-6.6%"
+            ],
+            [
+                "2:45am",
+                "EUR",
+                "French Consumer Spending m/m",
+                "1.3%",
+                "-1.3%"
+            ],
+            [
+                "EUR",
+                "French Prelim CPI m/m",
+                "0.5%",
+                "0.4%"
+            ],
+            [
+                "EUR",
+                "French Prelim GDP q/q",
+                "0.0%",
+                "0.0%"
+            ],
+            [
+                "3:00am",
+                "CHF",
+                "GDP q/q",
+                "0.3%",
+                "0.3%"
+            ],
+            [
+                "3:55am",
+                "EUR",
+                "German Unemployment Change",
+                "-16K",
+                "-13K"
+            ],
+            [
+                "4:30am",
+                "GBP",
+                "M4 Money Supply m/m",
+                "0.2%",
+                "0.1%"
+            ],
+            [
+                "GBP",
+                "Mortgage Approvals",
+                "72K",
+                "71K"
+            ],
+            [
+                "GBP",
+                "Net Lending to Individuals m/m",
+                "7.0B",
+                "8.3B"
+            ],
+            [
+                "5:00am",
+                "EUR",
+                "CPI Flash Estimate y/y",
+                "7.7%",
+                "7.5%"
+            ],
+            [
+                "EUR",
+                "Core CPI Flash Estimate y/y",
+                "3.5%",
+                "3.5%"
+            ],
+            [
+                "EUR",
+                "Italian Prelim CPI m/m",
+                "0.2%",
+                "0.2%"
+            ],
+            [
+                "Tentative",
+                "EUR",
+                "Italian 10-y Bond Auction",
+                "2.78|1.3"
+            ],
+            [
+                "8:00am",
+                "CHF",
+                "Gov Board Member Zurbrugg Speaks"
+            ],
+            [
+                "8:30am",
+                "CAD",
+                "GDP m/m",
+                "0.5%",
+                "1.1%"
+            ],
+            [
+                "9:00am",
+                "USD",
+                "HPI m/m",
+                "2.0%",
+                "2.1%"
+            ],
+            [
+                "USD",
+                "S&P/CS Composite-20 HPI y/y",
+                "19.8%",
+                "20.2%"
+            ],
+            [
+                "9:45am",
+                "USD",
+                "Chicago PMI",
+                "55.8",
+                "56.4"
+            ],
+            [
+                "10:00am",
+                "USD",
+                "CB Consumer Confidence",
+                "103.9",
+                "107.3"
+            ],
+            [
+                "6:30pm",
+                "AUD",
+                "AIG Manufacturing Index",
+                "58.5"
+            ],
+            [
+                "7:01pm",
+                "GBP",
+                "BRC Shop Price Index y/y",
+                "2.7%"
+            ],
+            [
+                "7:50pm",
+                "JPY",
+                "Capital Spending q/y",
+                "3.7%",
+                "4.3%"
+            ],
+            [
+                "8:30pm",
+                "JPY",
+                "Final Manufacturing PMI",
+                "53.2",
+                "53.2"
+            ],
+            [
+                "9:30pm",
+                "AUD",
+                "GDP q/q",
+                "0.6%",
+                "3.4%"
+            ],
+            [
+                "9:45pm",
+                "CNY",
+                "Caixin Manufacturing PMI",
+                "49.4",
+                "46.0"
+            ],
+            [
+                "Wed\nJun 1",
+                "2:00am",
+                "EUR",
+                "German Retail Sales m/m",
+                "-0.1%"
+            ],
+            [
+                "GBP",
+                "Nationwide HPI m/m",
+                "0.6%",
+                "0.3%"
+            ],
+            [
+                "2:30am",
+                "AUD",
+                "Commodity Prices y/y",
+                "39.9%"
+            ],
+            [
+                "2:45am",
+                "EUR",
+                "French Gov Budget Balance",
+                "-38.3B"
+            ],
+            [
+                "3:15am",
+                "EUR",
+                "Spanish Manufacturing PMI",
+                "52.2",
+                "53.3"
+            ],
+            [
+                "3:30am",
+                "CHF",
+                "Manufacturing PMI",
+                "61.5",
+                "62.5"
+            ],
+            [
+                "3:45am",
+                "EUR",
+                "Italian Manufacturing PMI",
+                "53.8",
+                "54.5"
+            ],
+            [
+                "3:50am",
+                "EUR",
+                "French Final Manufacturing PMI",
+                "54.5",
+                "54.5"
+            ],
+            [
+                "3:55am",
+                "EUR",
+                "German Final Manufacturing PMI",
+                "54.7",
+                "54.7"
+            ],
+            [
+                "4:00am",
+                "EUR",
+                "Final Manufacturing PMI",
+                "54.4",
+                "54.4"
+            ],
+            [
+                "EUR",
+                "Italian Monthly Unemployment Rate",
+                "8.3%",
+                "8.3%"
+            ],
+            [
+                "4:30am",
+                "GBP",
+                "Final Manufacturing PMI",
+                "54.6",
+                "54.6"
+            ],
+            [
+                "5:00am",
+                "EUR",
+                "Unemployment Rate",
+                "6.7%",
+                "6.8%"
+            ],
+            [
+                "7:00am",
+                "EUR",
+                "ECB President Lagarde Speaks"
+            ],
+            [
+                "9:30am",
+                "CAD",
+                "Manufacturing PMI",
+                "56.2"
+            ],
+            [
+                "9:45am",
+                "USD",
+                "Final Manufacturing PMI",
+                "57.5",
+                "57.5"
+            ],
+            [
+                "10:00am",
+                "CAD",
+                "BOC Rate Statement"
+            ],
+            [
+                "CAD",
+                "Overnight Rate",
+                "1.50%",
+                "1.00%"
+            ],
+            [
+                "USD",
+                "ISM Manufacturing PMI",
+                "54.9",
+                "55.4"
+            ],
+            [
+                "USD",
+                "JOLTS Job Openings",
+                "11.40M",
+                "11.55M"
+            ],
+            [
+                "USD",
+                "Construction Spending m/m",
+                "0.7%",
+                "0.1%"
+            ],
+            [
+                "USD",
+                "ISM Manufacturing Prices",
+                "80.1",
+                "84.6"
+            ],
+            [
+                "All Day",
+                "USD",
+                "Wards Total Vehicle Sales",
+                "14.5M",
+                "14.3M"
+            ],
+            [
+                "11:30am",
+                "USD",
+                "FOMC Member Williams Speaks"
+            ],
+            [
+                "1:00pm",
+                "USD",
+                "FOMC Member Bullard Speaks"
+            ],
+            [
+                "2:00pm",
+                "USD",
+                "Beige Book"
+            ],
+            [
+                "6:45pm",
+                "NZD",
+                "Overseas Trade Index q/q",
+                "1.3%",
+                "-1.0%"
+            ],
+            [
+                "7:50pm",
+                "JPY",
+                "Monetary Base y/y",
+                "2.3%",
+                "6.6%"
+            ],
+            [
+                "All Day",
+                "CNY",
+                "Bank Holiday"
+            ],
+            [
+                "9:30pm",
+                "AUD",
+                "Retail Sales m/m",
+                "0.9%",
+                "0.9%"
+            ],
+            [
+                "AUD",
+                "Trade Balance",
+                "9.02B",
+                "9.31B"
+            ],
+            [
+                "11:35pm",
+                "JPY",
+                "10-y Bond Auction",
+                "0.25|5.7"
+            ],
+            [
+                "Thu\nJun 2",
+                "2:30am",
+                "CHF",
+                "CPI m/m",
+                "0.3%",
+                "0.4%"
+            ],
+            [
+                "3:00am",
+                "EUR",
+                "Spanish Unemployment Change",
+                "-86.3K"
+            ],
+            [
+                "All Day",
+                "GBP",
+                "Bank Holiday"
+            ],
+            [
+                "All Day",
+                "EUR",
+                "Italian Bank Holiday"
+            ],
+            [
+                "5:00am",
+                "EUR",
+                "PPI m/m",
+                "2.4%",
+                "5.3%"
+            ],
+            [
+                "All Day",
+                "All",
+                "OPEC-JMMC Meetings"
+            ],
+            [
+                "7:30am",
+                "USD",
+                "Challenger Job Cuts y/y",
+                "6.0%"
+            ],
+            [
+                "8:15am",
+                "USD",
+                "ADP Non-Farm Employment Change",
+                "295K",
+                "247K"
+            ],
+            [
+                "8:30am",
+                "CAD",
+                "Building Permits m/m",
+                "-9.3%"
+            ],
+            [
+                "USD",
+                "Unemployment Claims",
+                "210K",
+                "210K"
+            ],
+            [
+                "USD",
+                "Revised Nonfarm Productivity q/q",
+                "-7.5%",
+                "-7.5%"
+            ],
+            [
+                "USD",
+                "Revised Unit Labor Costs q/q",
+                "11.5%",
+                "11.6%"
+            ],
+            [
+                "10:00am",
+                "USD",
+                "Factory Orders m/m",
+                "0.8%",
+                "2.2%"
+            ],
+            [
+                "10:30am",
+                "USD",
+                "Natural Gas Storage",
+                "80B"
+            ],
+            [
+                "10:45am",
+                "CAD",
+                "Gov Council Member Beaudry Speaks"
+            ],
+            [
+                "11:00am",
+                "USD",
+                "Crude Oil Inventories",
+                "-1.0M"
+            ],
+            [
+                "1:00pm",
+                "USD",
+                "FOMC Member Mester Speaks"
+            ],
+            [
+                "6:30pm",
+                "AUD",
+                "AIG Construction Index",
+                "55.9"
+            ],
+            [
+                "Fri\nJun 3",
+                "2:00am",
+                "EUR",
+                "German Trade Balance",
+                "5.6B",
+                "3.2B"
+            ],
+            [
+                "2:45am",
+                "EUR",
+                "French Industrial Production m/m",
+                "0.3%",
+                "-0.5%"
+            ],
+            [
+                "All Day",
+                "GBP",
+                "Bank Holiday"
+            ],
+            [
+                "3:15am",
+                "EUR",
+                "Spanish Services PMI",
+                "56.2",
+                "57.1"
+            ],
+            [
+                "3:45am",
+                "EUR",
+                "Italian Services PMI",
+                "54.6",
+                "55.7"
+            ],
+            [
+                "3:50am",
+                "EUR",
+                "French Final Services PMI",
+                "58.4",
+                "58.4"
+            ],
+            [
+                "3:55am",
+                "EUR",
+                "German Final Services PMI",
+                "56.3",
+                "56.3"
+            ],
+            [
+                "4:00am",
+                "EUR",
+                "Final Services PMI",
+                "56.3",
+                "56.3"
+            ],
+            [
+                "5:00am",
+                "EUR",
+                "Retail Sales m/m",
+                "0.3%",
+                "-0.4%"
+            ],
+            [
+                "Tentative",
+                "EUR",
+                "Spanish 10-y Bond Auction",
+                "2.05|1.3"
+            ],
+            [
+                "Tentative",
+                "EUR",
+                "French 10-y Bond Auction",
+                "1.51|1.8"
+            ],
+            [
+                "8:30am",
+                "CAD",
+                "Labor Productivity q/q",
+                "-0.5%"
+            ],
+            [
+                "USD",
+                "Average Hourly Earnings m/m",
+                "0.4%",
+                "0.3%"
+            ],
+            [
+                "USD",
+                "Non-Farm Employment Change",
+                "325K",
+                "428K"
+            ],
+            [
+                "USD",
+                "Unemployment Rate",
+                "3.5%",
+                "3.6%"
+            ],
+            [
+                "9:45am",
+                "USD",
+                "Final Services PMI",
+                "53.5",
+                "53.5"
+            ],
+            [
+                "10:00am",
+                "USD",
+                "ISM Services PMI",
+                "56.7",
+                "57.1"
+            ],
+            [
+                "Tentative",
+                "USD",
+                "Treasury Currency Report"
+            ],
+            [
+                "Sat\nJun 4",
+                " "
+            ]
+        ]
+    }
+]
